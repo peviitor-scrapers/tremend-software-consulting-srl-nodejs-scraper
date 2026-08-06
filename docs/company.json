@@ -1,0 +1,10 @@
+{
+  "id": "18089451",
+  "company": "TREMEND SOFTWARE CONSULTING SRL",
+  "brand": "Tremend",
+  "status": "activ",
+  "location": ["București"],
+  "website": ["https://tremend.com"],
+  "career": ["https://tremend.com/career/"],
+  "scraperFile": "https://github.com/peviitor-scrapers/tremendous-software-consulting-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}

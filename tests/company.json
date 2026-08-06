@@ -1,0 +1,93 @@
+{
+  "validatedAt": "2026-08-06T09:00:00.000Z",
+  "source": "ANAF",
+  "brand": "Tremend",
+  "anaf": {
+    "cui": 18089451,
+    "name": "TREMEND SOFTWARE CONSULTING SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 3, SPLAIUL UNIRII, NR.165",
+    "registrationNumber": "J40/9121/2005",
+    "phone": "",
+    "fax": "",
+    "postalCode": "030134",
+    "caenCode": "6201",
+    "iban": "",
+    "registrationState": "",
+    "registrationDate": "2005-08-05",
+    "fiscalAuthority": "Direcţia Generală a Finanţelor Publice Municipiul Bucureşti",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT ROMANESC",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Splaiul Unirii",
+      "number": "165",
+      "locality": "Sector 3 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": "030134"
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [
+      {
+        "name": "ADRIAN COSTACHE",
+        "role": "administrator"
+      }
+    ],
+    "authorizedCaenCodes": [
+      "6201",
+      "6202",
+      "6203",
+      "6209",
+      "7022",
+      "8559"
+    ],
+    "onrcStatus": 1048,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "18089451",
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "brand": "Tremend",
+    "group": "Tremend",
+    "status": "activ",
+    "website": [
+      "https://tremend.com"
+    ],
+    "career": [
+      "https://tremend.com/career/"
+    ],
+    "lastScraped": "2026-08-05",
+    "scraperFile": "tremend.md",
+    "_version_": 0,
+    "_root_": "18089451"
+  },
+  "summary": {
+    "company": "TREMEND SOFTWARE CONSULTING SRL",
+    "cif": "18089451",
+    "active": true,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 3, SPLAIUL UNIRII, NR.165",
+    "registrationNumber": "J40/9121/2005",
+    "caenCode": "6201",
+    "vatRegistered": true,
+    "eFacturaRegistered": false
+  }
+}
