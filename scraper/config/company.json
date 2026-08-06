@@ -6,5 +6,5 @@
   "location": ["București"],
   "website": ["https://tremend.com"],
   "career": ["https://tremend.com/career/"],
-  "scraperFile": "https://github.com/peviitor-scrapers/tremendous-software-consulting-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://github.com/peviitor-scrapers/tremend-software-consulting-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml"
 }
