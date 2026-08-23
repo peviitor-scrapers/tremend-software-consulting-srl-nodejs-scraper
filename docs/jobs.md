@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-08-22 |
+| Last Scraped | 2026-08-23 |
 
 ## Current Job Listings (109)
 
-_Generated: 2026-08-22T06:52:44.628Z_
+_Generated: 2026-08-23T06:53:35.522Z_
 
 ### Python Developer- Specialist- Energy & Commodities
 
