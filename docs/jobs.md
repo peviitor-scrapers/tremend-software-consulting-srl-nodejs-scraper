@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-08-29 |
+| Last Scraped | 2026-08-30 |
 
 ## Current Job Listings (97)
 
-_Generated: 2026-08-29T12:36:34.062Z_
+_Generated: 2026-08-30T11:46:15.826Z_
+
+### Data Analyst- Senior Associate
+
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-4/](https://tremend.com/career/data-analyst-senior-associate-4/)
+- **Location:** Timisoara
+- **Tags:** Data Analytics, Fulltime
+- **Status:** scraped
 
 ### Data Analyst- Senior Associate
 
@@ -41,13 +48,6 @@ _Generated: 2026-08-29T12:36:34.062Z_
 
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
 - **Location:** Cluj-Napoca
-- **Tags:** Data Analytics, Fulltime
-- **Status:** scraped
-
-### Data Analyst- Senior Associate
-
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-4/](https://tremend.com/career/data-analyst-senior-associate-4/)
-- **Location:** Timisoara
 - **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
@@ -298,6 +298,13 @@ _Generated: 2026-08-29T12:36:34.062Z_
 
 ### DevOps Engineer- Senior Associate
 
+- **URL:** [https://tremend.com/career/devops-engineer-senior-associate-3/](https://tremend.com/career/devops-engineer-senior-associate-3/)
+- **Location:** Iasi
+- **Tags:** Cloud Infra & DevOps, Fulltime
+- **Status:** scraped
+
+### DevOps Engineer- Senior Associate
+
 - **URL:** [https://tremend.com/career/devops-engineer-senior-associate-4/](https://tremend.com/career/devops-engineer-senior-associate-4/)
 - **Location:** Cluj-Napoca
 - **Tags:** Cloud Infra & DevOps, Fulltime
@@ -321,13 +328,6 @@ _Generated: 2026-08-29T12:36:34.062Z_
 
 - **URL:** [https://tremend.com/career/devops-engineer-senior-associate-2/](https://tremend.com/career/devops-engineer-senior-associate-2/)
 - **Location:** Brasov
-- **Tags:** Cloud Infra & DevOps, Fulltime
-- **Status:** scraped
-
-### DevOps Engineer- Senior Associate
-
-- **URL:** [https://tremend.com/career/devops-engineer-senior-associate-3/](https://tremend.com/career/devops-engineer-senior-associate-3/)
-- **Location:** Iasi
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
