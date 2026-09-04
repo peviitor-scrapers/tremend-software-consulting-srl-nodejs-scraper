@@ -10,11 +10,46 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
 ## Current Job Listings (102)
 
-_Generated: 2026-09-03T11:03:57.371Z_
+_Generated: 2026-09-04T11:10:04.420Z_
+
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-3/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** Java, Fulltime
+- **Status:** scraped
+
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-4/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-4/)
+- **Location:** Timisoara
+- **Tags:** Java, Fulltime
+- **Status:** scraped
+
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-5/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-5/)
+- **Location:** Brasov
+- **Tags:** Java, Fulltime
+- **Status:** scraped
+
+### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/)
+- **Location:** Timisoara
+- **Tags:** Product Management, Fulltime
+- **Status:** scraped
+
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-2/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-2/)
+- **Location:** Iasi
+- **Tags:** Java, Fulltime
+- **Status:** scraped
 
 ### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
 
@@ -34,13 +69,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 - **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-4/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-4/)
 - **Location:** Brasov
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/)
-- **Location:** Timisoara
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
@@ -74,6 +102,13 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 ### Data Analyst- Senior Associate
 
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** Data Analytics, Fulltime
+- **Status:** scraped
+
+### Data Analyst- Senior Associate
+
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate-4/](https://tremend.com/career/data-analyst-senior-associate-4/)
 - **Location:** Timisoara
 - **Tags:** Data Analytics, Fulltime
@@ -86,39 +121,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+### Technical Architect/Implementation Engineer (Salesforce)- Specialist- Financial Services
 
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-3/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-3/)
+- **URL:** [https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-3/](https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-3/)
 - **Location:** Cluj-Napoca
-- **Tags:** Java, Fulltime
-- **Status:** scraped
-
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
-
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-4/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-4/)
-- **Location:** Timisoara
-- **Tags:** Java, Fulltime
-- **Status:** scraped
-
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
-
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-5/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-5/)
-- **Location:** Brasov
-- **Tags:** Java, Fulltime
-- **Status:** scraped
-
-### Data Analyst- Senior Associate
-
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-2/](https://tremend.com/career/data-analyst-senior-associate-2/)
-- **Location:** Iasi
-- **Tags:** Data Analytics, Fulltime
-- **Status:** scraped
-
-### Data Analyst- Senior Associate
-
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** Data Analytics, Fulltime
+- **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
 ### Technical Architect/Implementation Engineer (Salesforce)- Specialist- Financial Services
@@ -135,11 +142,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
+### Data Analyst- Senior Associate
 
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-2/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services-2/)
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-2/](https://tremend.com/career/data-analyst-senior-associate-2/)
 - **Location:** Iasi
-- **Tags:** Java, Fulltime
+- **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
 ### Quality Engineer (Trading Platforms) – Specialist- Energy & Commodities
@@ -160,13 +167,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 - **URL:** [https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-2/](https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-2/)
 - **Location:** Iasi
-- **Tags:** Salesforce, Fulltime
-- **Status:** scraped
-
-### Technical Architect/Implementation Engineer (Salesforce)- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-3/](https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services-3/)
-- **Location:** Cluj-Napoca
 - **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
@@ -207,13 +207,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
 
-- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** Salesforce
-- **Status:** scraped
-
-### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
-
 - **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-4/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-4/)
 - **Location:** Timisoara
 - **Tags:** Salesforce
@@ -237,6 +230,13 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 - **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/)
 - **Location:** Iasi
+- **Tags:** Salesforce
+- **Status:** scraped
+
+### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/)
+- **Location:** Cluj-Napoca
 - **Tags:** Salesforce
 - **Status:** scraped
 
@@ -366,13 +366,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### .NET Developer- Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/net-developer-specialist-energy-commodities-5/](https://tremend.com/career/net-developer-specialist-energy-commodities-5/)
-- **Location:** Bucharest
-- **Tags:** .NET, Fulltime
-- **Status:** scraped
-
 ### Murex Flex Developer – Specialist- Energy & Commodities
 
 - **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-2/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-2/)
@@ -415,11 +408,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** .NET, Fulltime
 - **Status:** scraped
 
-### Java Developer- Senior Associate- Financial Services
+### .NET Developer- Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/java-developer-senior-associate-financial-services-4/](https://tremend.com/career/java-developer-senior-associate-financial-services-4/)
-- **Location:** Cluj-Napoca
-- **Tags:** Java, Fulltime
+- **URL:** [https://tremend.com/career/net-developer-specialist-energy-commodities-5/](https://tremend.com/career/net-developer-specialist-energy-commodities-5/)
+- **Location:** Bucharest
+- **Tags:** .NET, Fulltime
 - **Status:** scraped
 
 ### Java Developer- Senior Associate- Financial Services
@@ -450,13 +443,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
-### Devops Engineer- Specialist- Retail
-
-- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-5/](https://tremend.com/career/devops-engineer-specialist-retail-5/)
-- **Location:** Brasov
-- **Tags:** Cloud Infra & DevOps, Fulltime
-- **Status:** scraped
-
 ### Java Developer- Senior Associate- Financial Services
 
 - **URL:** [https://tremend.com/career/java-developer-senior-associate-financial-services-2/](https://tremend.com/career/java-developer-senior-associate-financial-services-2/)
@@ -468,6 +454,13 @@ _Generated: 2026-09-03T11:03:57.371Z_
 
 - **URL:** [https://tremend.com/career/java-developer-senior-associate-financial-services-3/](https://tremend.com/career/java-developer-senior-associate-financial-services-3/)
 - **Location:** Iasi
+- **Tags:** Java, Fulltime
+- **Status:** scraped
+
+### Java Developer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/java-developer-senior-associate-financial-services-4/](https://tremend.com/career/java-developer-senior-associate-financial-services-4/)
+- **Location:** Cluj-Napoca
 - **Tags:** Java, Fulltime
 - **Status:** scraped
 
@@ -492,9 +485,9 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
-### DevOps Engineer- Senior Associate
+### Devops Engineer- Specialist- Retail
 
-- **URL:** [https://tremend.com/career/devops-engineer-senior-associate-2/](https://tremend.com/career/devops-engineer-senior-associate-2/)
+- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-5/](https://tremend.com/career/devops-engineer-specialist-retail-5/)
 - **Location:** Brasov
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
@@ -548,11 +541,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
-### Python Developer- Specialist- Energy & Commodities
+### DevOps Engineer- Senior Associate
 
-- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-3/](https://tremend.com/career/python-developer-specialist-energy-commodities-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** General Tech, Fulltime
+- **URL:** [https://tremend.com/career/devops-engineer-senior-associate-2/](https://tremend.com/career/devops-engineer-senior-associate-2/)
+- **Location:** Brasov
+- **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
 ### Python Developer- Specialist- Energy & Commodities
@@ -567,13 +560,6 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-5/](https://tremend.com/career/python-developer-specialist-energy-commodities-5/)
 - **Location:** Brasov
 - **Tags:** General Tech, Fulltime
-- **Status:** scraped
-
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
-
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/)
-- **Location:** Bucharest
-- **Tags:** Java, Fulltime
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -604,11 +590,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** General Tech, Fulltime
 - **Status:** scraped
 
-### Murex Ctrl M Developer – Manager – Energy & Commodities
+### Python Developer- Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/](https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/)
-- **Location:** Bucharest
-- **Tags:** TRM, Fulltime
+- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-3/](https://tremend.com/career/python-developer-specialist-energy-commodities-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** General Tech, Fulltime
 - **Status:** scraped
 
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
@@ -639,11 +625,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
-### Enterprise Architect- Specialist- Retail
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
 
-- **URL:** [https://tremend.com/career/enterprise-architect-specialist-retail/](https://tremend.com/career/enterprise-architect-specialist-retail/)
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/)
 - **Location:** Bucharest
-- **Tags:** Data Engineering, Fulltime
+- **Tags:** Java, Fulltime
 - **Status:** scraped
 
 ### .NET Developer- Specialist- Energy & Commodities
@@ -674,18 +660,11 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### Python Developer- Specialist- Energy & Commodities
+### Murex Ctrl M Developer – Manager – Energy & Commodities
 
-- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities/](https://tremend.com/career/python-developer-specialist-energy-commodities/)
+- **URL:** [https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/](https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/)
 - **Location:** Bucharest
-- **Tags:** General Tech, Fulltime
-- **Status:** scraped
-
-### Business Analyst– CMS/DAM (AEM)- Specialist
-
-- **URL:** [https://tremend.com/career/business-analyst-cms-dam-aem-specialist/](https://tremend.com/career/business-analyst-cms-dam-aem-specialist/)
-- **Location:** Bucharest
-- **Tags:** Product Management, Fulltime
+- **Tags:** TRM, Fulltime
 - **Status:** scraped
 
 ### Java Technical Lead-Specialist-Financial Services
@@ -709,6 +688,13 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
+### Enterprise Architect- Specialist- Retail
+
+- **URL:** [https://tremend.com/career/enterprise-architect-specialist-retail/](https://tremend.com/career/enterprise-architect-specialist-retail/)
+- **Location:** Bucharest
+- **Tags:** Data Engineering, Fulltime
+- **Status:** scraped
+
 ### Cybersecurity Engineer-Senior Associate-Energy and Commodities
 
 - **URL:** [https://tremend.com/career/cybersecurity-engineer-senior-associate-energy-and-commodities/](https://tremend.com/career/cybersecurity-engineer-senior-associate-energy-and-commodities/)
@@ -728,4 +714,18 @@ _Generated: 2026-09-03T11:03:57.371Z_
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate/](https://tremend.com/career/data-analyst-senior-associate/)
 - **Location:** Bucharest
 - **Tags:** Data Analytics, Fulltime
+- **Status:** scraped
+
+### Python Developer- Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities/](https://tremend.com/career/python-developer-specialist-energy-commodities/)
+- **Location:** Bucharest
+- **Tags:** General Tech, Fulltime
+- **Status:** scraped
+
+### Business Analyst– CMS/DAM (AEM)- Specialist
+
+- **URL:** [https://tremend.com/career/business-analyst-cms-dam-aem-specialist/](https://tremend.com/career/business-analyst-cms-dam-aem-specialist/)
+- **Location:** Bucharest
+- **Tags:** Product Management, Fulltime
 - **Status:** scraped
