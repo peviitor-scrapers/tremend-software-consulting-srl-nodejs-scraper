@@ -7,14 +7,14 @@
 | CIF | 18089451 |
 | Brand | Tremend |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-09-05 |
+| Last Scraped | 2026-09-06 |
 
 ## Current Job Listings (102)
 
-_Generated: 2026-09-05T10:26:44.341Z_
+_Generated: 2026-09-06T10:45:33.903Z_
 
 ### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
 
@@ -102,13 +102,6 @@ _Generated: 2026-09-05T10:26:44.341Z_
 
 ### Data Analyst- Senior Associate
 
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** Data Analytics, Fulltime
-- **Status:** scraped
-
-### Data Analyst- Senior Associate
-
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate-4/](https://tremend.com/career/data-analyst-senior-associate-4/)
 - **Location:** Timisoara
 - **Tags:** Data Analytics, Fulltime
@@ -139,6 +132,13 @@ _Generated: 2026-09-05T10:26:44.341Z_
 
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate-2/](https://tremend.com/career/data-analyst-senior-associate-2/)
 - **Location:** Iasi
+- **Tags:** Data Analytics, Fulltime
+- **Status:** scraped
+
+### Data Analyst- Senior Associate
+
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
+- **Location:** Cluj-Napoca
 - **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
@@ -450,6 +450,13 @@ _Generated: 2026-09-05T10:26:44.341Z_
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
+### Devops Engineer- Specialist- Retail
+
+- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-5/](https://tremend.com/career/devops-engineer-specialist-retail-5/)
+- **Location:** Brasov
+- **Tags:** Cloud Infra & DevOps, Fulltime
+- **Status:** scraped
+
 ### Java Developer- Senior Associate- Financial Services
 
 - **URL:** [https://tremend.com/career/java-developer-senior-associate-financial-services-2/](https://tremend.com/career/java-developer-senior-associate-financial-services-2/)
@@ -482,13 +489,6 @@ _Generated: 2026-09-05T10:26:44.341Z_
 
 - **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-4/](https://tremend.com/career/devops-engineer-specialist-retail-4/)
 - **Location:** Timisoara
-- **Tags:** Cloud Infra & DevOps, Fulltime
-- **Status:** scraped
-
-### Devops Engineer- Specialist- Retail
-
-- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-5/](https://tremend.com/career/devops-engineer-specialist-retail-5/)
-- **Location:** Brasov
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
