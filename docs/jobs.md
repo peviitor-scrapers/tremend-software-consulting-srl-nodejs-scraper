@@ -7,14 +7,14 @@
 | CIF | 18089451 |
 | Brand | Tremend |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
+| Location | București |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-09-11 |
+| Last Scraped | 2026-09-12 |
 
-## Current Job Listings (87)
+## Current Job Listings (86)
 
-_Generated: 2026-09-11T11:05:18.239Z_
+_Generated: 2026-09-12T10:34:32.348Z_
 
 ### .NET Developer- Specialist- Energy & Commodities
 
@@ -116,13 +116,6 @@ _Generated: 2026-09-11T11:05:18.239Z_
 
 ### Quality Engineer (Trading Platforms) – Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-4/](https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-4/)
-- **Location:** Timisoara
-- **Tags:** Quality Engineering, Fulltime
-- **Status:** scraped
-
-### Quality Engineer (Trading Platforms) – Specialist- Energy & Commodities
-
 - **URL:** [https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-5/](https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-5/)
 - **Location:** Brasov
 - **Tags:** Quality Engineering, Fulltime
@@ -153,6 +146,13 @@ _Generated: 2026-09-11T11:05:18.239Z_
 
 - **URL:** [https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-3/](https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-3/)
 - **Location:** Cluj-Napoca
+- **Tags:** Quality Engineering, Fulltime
+- **Status:** scraped
+
+### Quality Engineer (Trading Platforms) – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-4/](https://tremend.com/career/quality-engineer-trading-platforms-specialist-energy-commodities-4/)
+- **Location:** Timisoara
 - **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
@@ -373,13 +373,6 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
 
-### Murex Flex Developer – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
-- **Location:** Timisoara
-- **Tags:** TRM, Fulltime
-- **Status:** scraped
-
 ### Data Engineer- Specialist- Financial Services
 
 - **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-2/](https://tremend.com/career/data-engineer-specialist-financial-services-2/)
@@ -408,11 +401,11 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### Devops Engineer- Specialist- Retail
+### Murex Flex Developer – Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-2/](https://tremend.com/career/devops-engineer-specialist-retail-2/)
-- **Location:** Iasi
-- **Tags:** Cloud Infra & DevOps, Fulltime
+- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
+- **Location:** Timisoara
+- **Tags:** TRM, Fulltime
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -450,11 +443,11 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
-### Quality Engineer- Senior Specialist
+### Devops Engineer- Specialist- Retail
 
-- **URL:** [https://tremend.com/career/quality-engineer-senior-specialist-3/](https://tremend.com/career/quality-engineer-senior-specialist-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** Quality Engineering, Fulltime
+- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-2/](https://tremend.com/career/devops-engineer-specialist-retail-2/)
+- **Location:** Iasi
+- **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
 ### Quality Engineer- Senior Specialist
@@ -485,13 +478,6 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
-### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
-
-- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/)
-- **Location:** Bucharest
-- **Tags:** Java, Fulltime
-- **Status:** scraped
-
 ### Devops Engineer- Specialist- Retail
 
 - **URL:** [https://tremend.com/career/devops-engineer-specialist-retail/](https://tremend.com/career/devops-engineer-specialist-retail/)
@@ -513,11 +499,11 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
-### Murex Ctrl M Developer – Manager – Energy & Commodities
+### Quality Engineer- Senior Specialist
 
-- **URL:** [https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/](https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/)
-- **Location:** Bucharest
-- **Tags:** TRM, Fulltime
+- **URL:** [https://tremend.com/career/quality-engineer-senior-specialist-3/](https://tremend.com/career/quality-engineer-senior-specialist-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
@@ -548,11 +534,11 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
-### Enterprise Architect- Specialist- Retail
+### Fullstack Java Engineer (Java+ Angular) – Senior Associate- Financial Services
 
-- **URL:** [https://tremend.com/career/enterprise-architect-specialist-retail/](https://tremend.com/career/enterprise-architect-specialist-retail/)
+- **URL:** [https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/](https://tremend.com/career/fullstack-java-engineer-java-angular-senior-associate-financial-services/)
 - **Location:** Bucharest
-- **Tags:** Data Engineering, Fulltime
+- **Tags:** Java, Fulltime
 - **Status:** scraped
 
 ### .NET Developer- Specialist- Energy & Commodities
@@ -583,6 +569,13 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
+### Murex Ctrl M Developer – Manager – Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/](https://tremend.com/career/murex-ctrl-m-developer-manager-energy-commodities/)
+- **Location:** Bucharest
+- **Tags:** TRM, Fulltime
+- **Status:** scraped
+
 ### Data Analyst- Senior Associate
 
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate/](https://tremend.com/career/data-analyst-senior-associate/)
@@ -597,13 +590,6 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **Tags:** General Tech, Fulltime
 - **Status:** scraped
 
-### Java Technical Lead-Specialist-Financial Services
-
-- **URL:** [https://tremend.com/career/java-technical-lead-specialist-financial-services/](https://tremend.com/career/java-technical-lead-specialist-financial-services/)
-- **Location:** Bucharest
-- **Tags:** Java, Fulltime
-- **Status:** scraped
-
 ### Quality Engineer- Senior Specialist
 
 - **URL:** [https://tremend.com/career/quality-engineer-senior-specialist/](https://tremend.com/career/quality-engineer-senior-specialist/)
@@ -616,6 +602,13 @@ _Generated: 2026-09-11T11:05:18.239Z_
 - **URL:** [https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity/](https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity/)
 - **Location:** Bucharest
 - **Tags:** Product Management, Fulltime
+- **Status:** scraped
+
+### Enterprise Architect- Specialist- Retail
+
+- **URL:** [https://tremend.com/career/enterprise-architect-specialist-retail/](https://tremend.com/career/enterprise-architect-specialist-retail/)
+- **Location:** Bucharest
+- **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
 
 ### Data Engineer- Specialist- Financial Services
