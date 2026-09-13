@@ -7,14 +7,14 @@
 | CIF | 18089451 |
 | Brand | Tremend |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-09-12 |
+| Last Scraped | 2026-09-13 |
 
 ## Current Job Listings (86)
 
-_Generated: 2026-09-12T10:34:32.348Z_
+_Generated: 2026-09-13T11:37:25.917Z_
 
 ### .NET Developer- Specialist- Energy & Commodities
 
@@ -373,6 +373,13 @@ _Generated: 2026-09-12T10:34:32.348Z_
 - **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
 
+### Murex Flex Developer – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
+- **Location:** Timisoara
+- **Tags:** TRM, Fulltime
+- **Status:** scraped
+
 ### Data Engineer- Specialist- Financial Services
 
 - **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-2/](https://tremend.com/career/data-engineer-specialist-financial-services-2/)
@@ -401,11 +408,11 @@ _Generated: 2026-09-12T10:34:32.348Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### Murex Flex Developer – Specialist- Energy & Commodities
+### Devops Engineer- Specialist- Retail
 
-- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
-- **Location:** Timisoara
-- **Tags:** TRM, Fulltime
+- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-2/](https://tremend.com/career/devops-engineer-specialist-retail-2/)
+- **Location:** Iasi
+- **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -443,11 +450,11 @@ _Generated: 2026-09-12T10:34:32.348Z_
 - **Tags:** Cloud Infra & DevOps, Fulltime
 - **Status:** scraped
 
-### Devops Engineer- Specialist- Retail
+### Quality Engineer- Senior Specialist
 
-- **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-2/](https://tremend.com/career/devops-engineer-specialist-retail-2/)
-- **Location:** Iasi
-- **Tags:** Cloud Infra & DevOps, Fulltime
+- **URL:** [https://tremend.com/career/quality-engineer-senior-specialist-3/](https://tremend.com/career/quality-engineer-senior-specialist-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
 ### Quality Engineer- Senior Specialist
@@ -496,13 +503,6 @@ _Generated: 2026-09-12T10:34:32.348Z_
 
 - **URL:** [https://tremend.com/career/quality-engineer-senior-specialist-2/](https://tremend.com/career/quality-engineer-senior-specialist-2/)
 - **Location:** Iasi
-- **Tags:** Quality Engineering, Fulltime
-- **Status:** scraped
-
-### Quality Engineer- Senior Specialist
-
-- **URL:** [https://tremend.com/career/quality-engineer-senior-specialist-3/](https://tremend.com/career/quality-engineer-senior-specialist-3/)
-- **Location:** Cluj-Napoca
 - **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
