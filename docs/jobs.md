@@ -10,11 +10,67 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-09-17 |
+| Last Scraped | 2026-09-19 |
 
 ## Current Job Listings (61)
 
-_Generated: 2026-09-17T11:29:12.079Z_
+_Generated: 2026-09-19T10:45:25.503Z_
+
+### Data Engineer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/data-engineer-senior-associate-financial-services-5/](https://tremend.com/career/data-engineer-senior-associate-financial-services-5/)
+- **Location:** Brasov
+- **Tags:** Data Engineering, Fulltime
+- **Status:** scraped
+
+### Data Engineer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/data-engineer-senior-associate-financial-services-4/](https://tremend.com/career/data-engineer-senior-associate-financial-services-4/)
+- **Location:** Timisoara
+- **Tags:** Data Engineering, Fulltime
+- **Status:** scraped
+
+### Data Engineer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/data-engineer-senior-associate-financial-services-3/](https://tremend.com/career/data-engineer-senior-associate-financial-services-3/)
+- **Location:** Iasi
+- **Tags:** Data Engineering, Fulltime
+- **Status:** scraped
+
+### Data Engineer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/data-engineer-senior-associate-financial-services-2/](https://tremend.com/career/data-engineer-senior-associate-financial-services-2/)
+- **Location:** Cluj-Napoca
+- **Tags:** Data Engineering, Fulltime
+- **Status:** scraped
+
+### Murex Business Analyst – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-4/](https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-4/)
+- **Location:** Brasov
+- **Tags:** Product Management, Fulltime
+- **Status:** scraped
+
+### Murex Business Analyst – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-5/](https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-5/)
+- **Location:** Timisoara
+- **Tags:** Product Management, Fulltime
+- **Status:** scraped
+
+### Murex Business Analyst – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-3/](https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-3/)
+- **Location:** Cluj-Napoca
+- **Tags:** Product Management, Fulltime
+- **Status:** scraped
+
+### Murex Business Analyst – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-2/](https://tremend.com/career/murex-business-analyst-specialist-energy-commodities-2/)
+- **Location:** Iasi
+- **Tags:** Product Management, Fulltime
+- **Status:** scraped
 
 ### Murex Ctrl M Developer – Specialist- Energy & Commodities
 
@@ -37,17 +93,17 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### Murex Flex Developer – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
-- **Location:** Timisoara
-- **Tags:** TRM, Fulltime
-- **Status:** scraped
-
 ### Murex Ctrl M Developer – Specialist- Energy & Commodities
 
 - **URL:** [https://tremend.com/career/murex-ctrl-m-developer-specialist-energy-commodities-2/](https://tremend.com/career/murex-ctrl-m-developer-specialist-energy-commodities-2/)
 - **Location:** Iasi
+- **Tags:** TRM, Fulltime
+- **Status:** scraped
+
+### Murex Flex Developer – Specialist- Energy & Commodities
+
+- **URL:** [https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/](https://tremend.com/career/murex-flex-developer-specialist-energy-commodities-5/)
+- **Location:** Timisoara
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
@@ -74,8 +130,8 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 ### Data Analyst- Senior Associate
 
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-5/](https://tremend.com/career/data-analyst-senior-associate-5/)
-- **Location:** Brasov
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
+- **Location:** Cluj-Napoca
 - **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
@@ -88,8 +144,8 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 ### Data Analyst- Senior Associate
 
-- **URL:** [https://tremend.com/career/data-analyst-senior-associate-3/](https://tremend.com/career/data-analyst-senior-associate-3/)
-- **Location:** Cluj-Napoca
+- **URL:** [https://tremend.com/career/data-analyst-senior-associate-5/](https://tremend.com/career/data-analyst-senior-associate-5/)
+- **Location:** Brasov
 - **Tags:** Data Analytics, Fulltime
 - **Status:** scraped
 
@@ -102,15 +158,15 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 ### Python Developer- Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-4/](https://tremend.com/career/python-developer-specialist-energy-commodities-4/)
-- **Location:** Timisoara
+- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-5/](https://tremend.com/career/python-developer-specialist-energy-commodities-5/)
+- **Location:** Brasov
 - **Tags:** General Tech, Fulltime
 - **Status:** scraped
 
 ### Python Developer- Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-5/](https://tremend.com/career/python-developer-specialist-energy-commodities-5/)
-- **Location:** Brasov
+- **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-4/](https://tremend.com/career/python-developer-specialist-energy-commodities-4/)
+- **Location:** Timisoara
 - **Tags:** General Tech, Fulltime
 - **Status:** scraped
 
@@ -126,6 +182,13 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **URL:** [https://tremend.com/career/python-developer-specialist-energy-commodities-2/](https://tremend.com/career/python-developer-specialist-energy-commodities-2/)
 - **Location:** Iasi
 - **Tags:** General Tech, Fulltime
+- **Status:** scraped
+
+### ETRM Product Manager – Senior Associate – Energy & Commodity
+
+- **URL:** [https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-4/](https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-4/)
+- **Location:** Cluj-Napoca
+- **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
 ### ETRM Product Manager – Senior Associate – Energy & Commodity
@@ -146,13 +209,6 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 - **URL:** [https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-2/](https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-2/)
 - **Location:** Iasi
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### ETRM Product Manager – Senior Associate – Energy & Commodity
-
-- **URL:** [https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-4/](https://tremend.com/career/etrm-product-manager-senior-associate-energy-commodity-4/)
-- **Location:** Cluj-Napoca
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
 
@@ -186,15 +242,8 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
 
-- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/)
-- **Location:** Iasi
-- **Tags:** Salesforce
-- **Status:** scraped
-
-### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
-
-- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/)
-- **Location:** Cluj-Napoca
+- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-5/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-5/)
+- **Location:** Brasov
 - **Tags:** Salesforce
 - **Status:** scraped
 
@@ -207,65 +256,9 @@ _Generated: 2026-09-17T11:29:12.079Z_
 
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
 
-- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-5/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-5/)
-- **Location:** Brasov
+- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-3/)
+- **Location:** Cluj-Napoca
 - **Tags:** Salesforce
-- **Status:** scraped
-
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-5/)
-- **Location:** Timisoara
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-4/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-4/)
-- **Location:** Brasov
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-3/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-3/)
-- **Location:** Cluj-Napoca
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
-
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-2/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities-2/)
-- **Location:** Iasi
-- **Tags:** Product Management, Fulltime
-- **Status:** scraped
-
-### Data Engineer- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-5/](https://tremend.com/career/data-engineer-specialist-financial-services-5/)
-- **Location:** Brasov
-- **Tags:** Data Engineering, Fulltime
-- **Status:** scraped
-
-### Data Engineer- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-4/](https://tremend.com/career/data-engineer-specialist-financial-services-4/)
-- **Location:** Timisoara
-- **Tags:** Data Engineering, Fulltime
-- **Status:** scraped
-
-### Data Engineer- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-2/](https://tremend.com/career/data-engineer-specialist-financial-services-2/)
-- **Location:** Cluj-Napoca
-- **Tags:** Data Engineering, Fulltime
-- **Status:** scraped
-
-### Data Engineer- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services-3/](https://tremend.com/career/data-engineer-specialist-financial-services-3/)
-- **Location:** Iasi
-- **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -273,6 +266,13 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **URL:** [https://tremend.com/career/devops-engineer-specialist-retail-5/](https://tremend.com/career/devops-engineer-specialist-retail-5/)
 - **Location:** Brasov
 - **Tags:** Cloud Infra & DevOps, Fulltime
+- **Status:** scraped
+
+### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services-2/)
+- **Location:** Iasi
+- **Tags:** Salesforce
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -345,18 +345,18 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **Tags:** Quality Engineering, Fulltime
 - **Status:** scraped
 
-### Technical Architect/Implementation Engineer (Salesforce)- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services/](https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services/)
-- **Location:** Bucharest
-- **Tags:** Salesforce, Fulltime
-- **Status:** scraped
-
 ### Implementation Consultant (Commercial Lending Platform)- Senior Associate- Financial Services
 
 - **URL:** [https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services/](https://tremend.com/career/implementation-consultant-commercial-lending-platform-senior-associate-financial-services/)
 - **Location:** Bucharest
 - **Tags:** Salesforce
+- **Status:** scraped
+
+### Technical Architect/Implementation Engineer (Salesforce)- Specialist- Financial Services
+
+- **URL:** [https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services/](https://tremend.com/career/technical-architect-implementation-engineer-salesforce-specialist-financial-services/)
+- **Location:** Bucharest
+- **Tags:** Salesforce, Fulltime
 - **Status:** scraped
 
 ### Devops Engineer- Specialist- Retail
@@ -387,9 +387,9 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **Tags:** TRM, Fulltime
 - **Status:** scraped
 
-### Front Office Business and Integration Analyst (Murex) – Specialist- Energy & Commodities
+### Murex Business Analyst – Specialist- Energy & Commodities
 
-- **URL:** [https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities/](https://tremend.com/career/front-office-business-and-integration-analyst-murex-specialist-energy-commodities/)
+- **URL:** [https://tremend.com/career/murex-business-analyst-specialist-energy-commodities/](https://tremend.com/career/murex-business-analyst-specialist-energy-commodities/)
 - **Location:** Bucharest
 - **Tags:** Product Management, Fulltime
 - **Status:** scraped
@@ -404,13 +404,6 @@ _Generated: 2026-09-17T11:29:12.079Z_
 ### Enterprise Architect- Specialist- Retail
 
 - **URL:** [https://tremend.com/career/enterprise-architect-specialist-retail/](https://tremend.com/career/enterprise-architect-specialist-retail/)
-- **Location:** Bucharest
-- **Tags:** Data Engineering, Fulltime
-- **Status:** scraped
-
-### Data Engineer- Specialist- Financial Services
-
-- **URL:** [https://tremend.com/career/data-engineer-specialist-financial-services/](https://tremend.com/career/data-engineer-specialist-financial-services/)
 - **Location:** Bucharest
 - **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
@@ -441,4 +434,11 @@ _Generated: 2026-09-17T11:29:12.079Z_
 - **URL:** [https://tremend.com/career/data-analyst-senior-associate/](https://tremend.com/career/data-analyst-senior-associate/)
 - **Location:** Bucharest
 - **Tags:** Data Analytics, Fulltime
+- **Status:** scraped
+
+### Data Engineer- Senior Associate- Financial Services
+
+- **URL:** [https://tremend.com/career/data-engineer-senior-associate-financial-services/](https://tremend.com/career/data-engineer-senior-associate-financial-services/)
+- **Location:** Bucharest
+- **Tags:** Data Engineering, Fulltime
 - **Status:** scraped
