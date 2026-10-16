@@ -54,6 +54,51 @@ function decodeEntities(str) {
   return decoded.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
+const BROWSER_UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
+let browserSession = null;
+
+/**
+ * tremend.com sits behind an AWS WAF JavaScript challenge: plain HTTP clients get
+ * "202 Accepted" with an empty body. A real Chromium solves the challenge and gets the
+ * aws-waf-token cookie, which its request context then reuses for the admin-ajax POSTs.
+ */
+async function getBrowserSession() {
+  if (browserSession) return browserSession;
+  const { chromium } = await import("playwright");
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({ userAgent: BROWSER_UA, locale: "en-US" });
+  const page = await context.newPage();
+  await page.goto(`${JOB_BASE}/careers/`, { waitUntil: "domcontentloaded", timeout: 45000 });
+  for (let i = 0; i < 40; i++) {
+    const cookies = await context.cookies();
+    if (cookies.some((c) => /waf/i.test(c.name))) break;
+    await page.waitForTimeout(500);
+  }
+  browserSession = { browser, context };
+  return browserSession;
+}
+
+async function closeBrowser() {
+  if (!browserSession) return;
+  const { browser } = browserSession;
+  browserSession = null;
+  await browser.close().catch(() => {});
+}
+
+async function fetchJobsPageViaBrowser(paged) {
+  const { context } = await getBrowserSession();
+  const res = await context.request.post(`${JOB_BASE}/wp-admin/admin-ajax.php`, {
+    form: { action: "career_filter", paged: String(paged) },
+    headers: { "X-Requested-With": "XMLHttpRequest" },
+    timeout: 30000
+  });
+  if (!res.ok()) {
+    throw new Error(`Browser API error ${res.status()} for paged=${paged}`);
+  }
+  return JSON.parse(await res.text());
+}
+
 async function fetchJobsPage(paged) {
   const url = `${JOB_BASE}/wp-admin/admin-ajax.php`;
   const body = new URLSearchParams({
@@ -61,22 +106,28 @@ async function fetchJobsPage(paged) {
     paged
   });
 
-  const res = await fetch(url, {
-    method: "POST",
-    timeout: TIMEOUT,
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-      "X-Requested-With": "XMLHttpRequest",
-      "User-Agent": "job_seeker_ro_spider"
-    },
-    body: body.toString()
-  });
+  try {
+    const res = await fetch(url, {
+      method: "POST",
+      timeout: TIMEOUT,
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "User-Agent": "job_seeker_ro_spider"
+      },
+      body: body.toString()
+    });
 
-  if (!res.ok) {
-    throw new Error(`API error ${res.status} for paged=${paged}`);
+    if (res.ok) {
+      const text = await res.text();
+      if (text.trim()) return JSON.parse(text);
+    }
+    console.log(`Plain request blocked (HTTP ${res.status}) - retrying with a real browser for paged=${paged}`);
+  } catch (err) {
+    console.log(`Plain request failed (${err.message}) - retrying with a real browser for paged=${paged}`);
   }
 
-  return await res.json();
+  return fetchJobsPageViaBrowser(paged);
 }
 
 function parseHtmlJobs(html) {
@@ -355,14 +406,16 @@ async function main() {
 
     console.log("\n=== DONE ===");
     console.log("Scraper completed successfully!");
+    await closeBrowser();
 
   } catch (err) {
     console.error("Scraper failed:", err);
+    await closeBrowser();
     process.exit(1);
   }
 }
 
-export { parseHtmlJobs, mapToJobModel, transformJobsForSOLR };
+export { parseHtmlJobs, mapToJobModel, transformJobsForSOLR, fetchJobsPage, closeBrowser };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();

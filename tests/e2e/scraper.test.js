@@ -50,19 +50,16 @@ const TEST_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.company;
 const TREMEND_AJAX_URL = 'https://tremend.com/wp-admin/admin-ajax.php';
 
+// Uses the scraper's own fetch (plain request, then real-browser fallback for the AWS WAF challenge).
 async function fetchCareersPage(paged) {
-  const body = new URLSearchParams({ action: 'career_filter', paged });
-  const res = await fetch(TREMEND_AJAX_URL, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-      'X-Requested-With': 'XMLHttpRequest',
-      'User-Agent': 'job_seeker_ro_spider'
-    },
-    body: body.toString()
-  });
-  return res.json();
+  const { fetchJobsPage } = await import('../../scraper/index.js');
+  return fetchJobsPage(paged);
 }
+
+afterAll(async () => {
+  const { closeBrowser } = await import('../../scraper/index.js');
+  await closeBrowser();
+});
 
 beforeAll(async () => {
   [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
