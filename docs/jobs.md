@@ -7,14 +7,14 @@
 | CIF | 18089451 |
 | Brand | Tremend |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
+| Location | București |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
 ## Current Job Listings (61)
 
-_Generated: 2026-10-27T11:59:22.139Z_
+_Generated: 2026-10-28T12:38:21.606Z_
 
 ### Data Engineer- Senior Associate- Financial Services
 
