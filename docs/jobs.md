@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD LASCĂR CATARGIU, NR.47-53, ET.7 ŞI 10 |
 | Website | [https://tremend.com](https://tremend.com) |
 | Careers | [https://tremend.com/career/](https://tremend.com/career/) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
 ## Current Job Listings (61)
 
-_Generated: 2026-11-05T14:29:10.965Z_
+_Generated: 2026-11-06T14:06:47.082Z_
 
 ### Data Engineer- Senior Associate- Financial Services
 
